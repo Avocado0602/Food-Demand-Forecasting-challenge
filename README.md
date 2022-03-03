@@ -17,3 +17,4 @@ Evaluation Metric
 The evaluation metric for this competition is 100*RMSLE where RMSLE is Root of Mean Squared Logarithmic Error across all entries in the test set.
 
 With this challenge, I obtain the ranking of 124 out of 7240 participants
+The link of the contest is here: https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/
