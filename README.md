@@ -15,3 +15,5 @@ meal_info.csv: Contains information for each meal being served
 
 Evaluation Metric
 The evaluation metric for this competition is 100*RMSLE where RMSLE is Root of Mean Squared Logarithmic Error across all entries in the test set.
+
+With this challenge, I obtain the ranking of 124 out of 7240 participants
