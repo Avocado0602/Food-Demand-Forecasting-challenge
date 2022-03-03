@@ -18,3 +18,4 @@ The evaluation metric for this competition is 100*RMSLE where RMSLE is Root of M
 
 With this challenge, I obtain the ranking of 124 out of 7240 participants
 The link of the contest is here: https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/
+The link for my visualization to understand more about the data is here: https://public.tableau.com/app/profile/tai.nguyen5781
